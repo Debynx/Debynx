@@ -4,7 +4,7 @@
 - 🌸 _Em busca de conhecimento..._
 - 🌸 _Estudo C#, JavaScript, HTML e Python_
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Debynx">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Debynx&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
      </br>
